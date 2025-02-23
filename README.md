@@ -3,9 +3,7 @@
 
 -------------------------
 
-<pre>
- With 𝟲+ 𝘆𝗲𝗮𝗿𝘀 of frontend development commercial experience, I have successfully built and scaled FinTech and startup applications. I have worked on projects in the e-commerce and AI domains and have launched a startup project. Highly autonomous and responsible, I take full ownership of my commitments. I'm  a frontend development expert with deep React expertise and extensive experience in building scalable web applications
-</pre>
+With 𝟲+ 𝘆𝗲𝗮𝗿𝘀 of frontend development commercial experience, I have successfully built and scaled FinTech and startup applications. I have worked on projects in the e-commerce and AI domains and have launched a startup project. Highly autonomous and responsible, I take full ownership of my commitments. I'm  a frontend development expert with deep React expertise and extensive experience in building scalable web applications
 
 * ✉️  You can contact me at [georgiyev.svyatoslav@proton.me](mailto:georgiyev.svyatoslav@proton.me)
 
