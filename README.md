@@ -3,7 +3,7 @@
 
 -------------------------
 
-With 𝟲+ 𝘆𝗲𝗮𝗿𝘀 of frontend development commercial experience, I have successfully built and scaled FinTech applications and launched a startup with 𝟱𝟬𝗸+ active users . I have worked on projects in the e-commerce, AI domain, startup project. Highly autonomous and responsible, I take full ownership of my commitments. I'm a frontend development expert with deep React expertise and extensive experience in building scalable web applications.
+With 6+ years of frontend development commercial experience, I have successfully built and scaled web applications and launched a startup with 1.5k+ DAU. I have worked on projects in e-commerce, AI, and startup projects for B2C clients. Experienced in optimizing deployment processes, enhancing UI development workflows, and building high-performance large-scale applications. Designed and implemented modular frontend architectures to scale complex systems.
 
 * ✉️  You can contact me at [georgiyev.svyatoslav@proton.me](mailto:georgiyev.svyatoslav@proton.me)
 
